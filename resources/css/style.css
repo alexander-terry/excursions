@@ -14,3 +14,21 @@ html {
     color:aquamarine;
     font-size: 16px;
 }
+
+.guide,.announcement {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.desc {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color:gray;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
